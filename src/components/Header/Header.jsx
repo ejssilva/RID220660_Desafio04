@@ -6,7 +6,7 @@ const Header = () => {
       <nav>
         <ul className="nav-links">
           <li><a href="#experience">Experiência</a></li>
-          <li><a href="#blog">Blog</a></li>
+          <li><a href="#skills">Habilidades</a></li>
           <li><a href="#projects">Projetos</a></li>
           <li><a href="#footer">Contato</a></li>
         </ul>
